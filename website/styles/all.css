@@ -1,0 +1,141 @@
+
+/*BODY (content width set + text stylings edits etc)*/
+body {
+  font-family: garamond;
+}
+
+
+/*HEADER*/
+
+
+/*NAVIGATION*/
+
+
+/*FOOTER*/
+
+
+/*HOME*/
+#plumtree{
+  margin-left: 525px;
+  font-size: 45px;
+}
+#japrest {
+  margin-left: 500px;
+}
+.description {
+  width: 600px;
+  text-align: left;
+  margin-left: 350px;
+}
+
+.hours {
+  margin-left: 500px;
+}
+
+/*MENU*/
+
+
+
+/*LOCATION*/
+#Location{
+  margin-left: 525px;
+}
+#map{
+  border: 1px solid black;
+  margin-left: 400px;
+  width: 400px;
+  height: 400px;
+  background: yellow;
+}
+#exactlocation{
+  margin-left: 300px;
+  width: 150px;
+}
+#locatedAt{
+  margin-left: 300px;
+}
+
+.locationDescription{
+  margin-left: 300px;
+  width: 700px;
+}
+
+
+/*RESERVATIONS - FORM*/
+#reservations {
+  margin-left: 525px;
+}
+.resDescription{
+  margin-left: 400px;
+  width: 500px;
+}
+
+
+@media screen and (max-width: 800px) {
+
+
+  /*BODY mobile (content width set + text stylings edits etc)*/
+
+
+
+  /*HEADER mobile*/
+
+
+
+  /*NAVIGATION mobile*/
+
+
+  /*FOOTER mobile*/
+
+
+  /*HOME mobile*/
+  #plumtree{
+    margin-left: 10px;
+    font-size: 45px;
+  }
+  #japrest {
+    margin-left: 10px;
+  }
+  .description {
+    width: 350px;
+    text-align: left;
+    margin-left: 10px;
+  }
+
+  /*MENU mobile*/
+
+
+
+  /*LOCATION mobile*/
+  #Location{
+    margin-left: 10px;
+  }
+  #map{
+    border: 1px solid black;
+    margin-left: 10px;
+    width: 320px;
+    height: 320px;
+    background: yellow;
+  }
+
+  #locatedAt{
+    margin-left: 10px;
+  }
+  #exactlocation{
+    margin-left: 10px;
+    width: 150px;
+  }
+  .locationDescription{
+    margin-left: 10px;
+    width: 300px;
+  }
+
+
+  /*RESERVATIONS - FORM mobile*/
+
+
+
+
+
+
+}
